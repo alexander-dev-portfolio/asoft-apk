@@ -1,4 +1,4 @@
-# AlexanderSoft APK Center
+# A Soft APK Center
 
 Public Android application distribution.
 
